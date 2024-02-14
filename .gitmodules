@@ -1,0 +1,3 @@
+[submodule "volumes/widgets"]
+	path = volumes/widgets
+	url = git@github.com:city-of-baltimore/scenario-dashboard-widgets.git
