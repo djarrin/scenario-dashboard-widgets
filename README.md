@@ -1,4 +1,4 @@
-# docker-scenario-dashboard
+# scenario-dashboard-docker
 A small docker instance with the scenario widgets as a submodule
 
 # Getting Set Up for local development
