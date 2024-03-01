@@ -1,7 +1,9 @@
 # docker-scenario-dashboard
 A small docker instance with the scenario widgets as a submodule
 
-To start, run docker-compose up
+# Getting Set Up for local development
+
+run `docker-compose up`
 
 Navigate to https://localhost:3001
 
