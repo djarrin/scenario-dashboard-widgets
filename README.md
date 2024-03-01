@@ -15,11 +15,11 @@ Navigate to https://localhost:3001
 
 To login:
 
-Create a developer account on [ArcGIS Online](https://arcgis.com){:target="_blank"} 
+Create a developer account on [ArcGIS Online](https://arcgis.com)
 
 On the login screen, copy the domain that you are redirected to on login, paste it into the domain field
 
-Navigate to the [ArcGIS Developer Dashboard](https://developers.arcgis.com/dashboard){:target="_blank"}  
+Navigate to the [ArcGIS Developer Dashboard](https://developers.arcgis.com/dashboard)
 
 On the OAuth 2.0 tab, create a "New Application"
 
