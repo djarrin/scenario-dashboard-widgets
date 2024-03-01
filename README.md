@@ -1,5 +1,5 @@
 # scenario-dashboard-docker
-A small docker instance with the scenario widgets as a submodule
+A small docker instance with the [scenario widgets](https://github.com/city-of-baltimore/scenario-dashboard-widgets) as a submodule
 
 `git clone git@github.com:city-of-baltimore/scenario-dashboard-docker.git`
 
