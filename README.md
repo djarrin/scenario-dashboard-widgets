@@ -1,6 +1,12 @@
 # scenario-dashboard-docker
 A small docker instance with the scenario widgets as a submodule
 
+`git clone git@github.com:city-of-baltimore/scenario-dashboard-docker.git`
+
+`cd scenario-dashboard-docker`
+
+git pull --recurse-submodules`
+
 # Getting Set Up for local development
 
 run `docker-compose up`
