@@ -5,7 +5,7 @@ A small docker instance with the scenario widgets as a submodule
 
 `cd scenario-dashboard-docker`
 
-git pull --recurse-submodules`
+`git pull --recurse-submodules`
 
 # Getting Set Up for local development
 
