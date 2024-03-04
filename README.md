@@ -55,16 +55,10 @@ Note: It is recommended to position the map on the right of the screen and the d
 
 5. Hit the disc icon to save and then Publish. Under the three dots menu, select "View published item".
 
-## Contributing to the widgets
+## Contributing to this project
 
-This project will use issues and branching to track changes from external contributors. If you have a change, please find or open a GitHub issue describing the reason for the change.
+To start, read the documentation in the [scenario widgets](https://github.com/city-of-baltimore/scenario-dashboard-widgets) repository. This repository will use the same contribution guidelines, of creating an issue and checking out a new branch named after the issue. 
 
-Name your branch based on the issue (ex. issue-2).
+For submodule updates, the commit message should be "Widgets submodule update [current commit]".
 
-Reference the issue in your commit message, along with a description of the code changed.
-
-Once the code is ready, open a pull request for review.
-
-[Read more about creating a branch](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project#creating-a-branch-to-work-on)
-
-Want to contribute to this README? Open a 
+You can find the current commit with `git diff volumes/widgets`.
