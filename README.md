@@ -5,7 +5,7 @@ A small docker instance with the [scenario widgets](https://github.com/city-of-b
 
 Note: Docker is required before beginning.
 
-`git clone git@github.com:city-of-baltimore/scenario-dashboard-docker.git`
+`git clone https://github.com/city-of-baltimore/scenario-dashboard-docker.git`
 
 `cd scenario-dashboard-docker`
 
