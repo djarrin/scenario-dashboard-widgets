@@ -1,0 +1,9 @@
+{
+    "appId": "",
+    "templateTableUrl": "https://services1.arcgis.com/UWYHeuuJISiGmgXx/arcgis/rest/services/OEM_Database_Public/FeatureServer/1",
+    "layerTableUrl": "https://services1.arcgis.com/UWYHeuuJISiGmgXx/arcgis/rest/services/OEM_Database_Public/FeatureServer/0",
+    "categoryTableUrl": "https://services1.arcgis.com/UWYHeuuJISiGmgXx/arcgis/rest/services/OEM_Database_Public/FeatureServer/2",
+    "templateLayerRelationshipsUrl": "https://services1.arcgis.com/UWYHeuuJISiGmgXx/arcgis/rest/services/OEM_Database_Public/FeatureServer/3",
+    "canExportData": "false"
+}
+

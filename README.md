@@ -9,7 +9,7 @@ Note: Docker is required before beginning.
 
 `cd scenario-dashboard-docker`
 
-`git pull --recurse-submodules`
+`git submodule update --init --recursive`
 
 Create a developer account on [ArcGIS Online](https://arcgis.com)
 
