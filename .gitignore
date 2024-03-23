@@ -1,2 +1,5 @@
 scenario-dashboard/config.json
+scenario-dashboard/node_modules
+
 scenario-database-config/config.json
+
